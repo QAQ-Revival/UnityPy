@@ -1,5 +1,4 @@
 from . import (
-    AudioClipConverter,
     MeshExporter,
     MeshRendererExporter,
     SpriteHelper,
@@ -7,7 +6,6 @@ from . import (
 )
 
 __all__ = [
-    "AudioClipConverter",
     "MeshExporter",
     "MeshRendererExporter",
     "SpriteHelper",
